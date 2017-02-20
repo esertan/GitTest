@@ -1,2 +1,4 @@
 #files that will not be tracked
 git_cheatsheet
+*.pyc
+*.swp
